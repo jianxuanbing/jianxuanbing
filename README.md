@@ -16,6 +16,41 @@
   </a>
 </div>
 
+### 🤗 欢迎来访
+
+<div>
+  <!-- 统计访问者数量 -->
+  <a href="https://komarev.com/ghpvc/?username=jianxuanbing">
+    <img src="https://komarev.com/ghpvc/?username=jianxuanbing" />
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=jianxuanbing.jianxuanbing">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jianxuanbing.jianxuanbing" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:jianxuanhuo1@126.com">
+    <img src="https://img.shields.io/badge/-jianxuanhuo1@126.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jianxuanhuo1@126.com">
+  </a>
+  <!-- Stars -->
+  <a href="https://img.shields.io/github/stars/jianxuanbing?color=fefb7b&logo=Undertale">
+    <img src="https://img.shields.io/github/stars/jianxuanbing?color=fefb7b&logo=Undertale">
+  </a>
+  <a href="https://github.com/bing-framework/Bing.NetCore">
+    <img src="https://img.shields.io/github/stars/bing-framework/Bing.NetCore?color=fefb7b">
+  </a>
+  <a href="https://github.com/jianxuanbing?tab=followers">
+    <img src="https://img.shields.io/github/followers/jianxuanbing?color=27da6b&logo=Handshake">
+  </a>
+  <a href="https://www.jcebing.com">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E7%8E%84%E5%86%B0%E5%B0%8F%E7%AA%9D-d7b1bf?logo=Blogger">
+  </a>
+  <a href="https://github.com/jianxuanbing/awesome-stars-jianxuanbing#readme">
+    <img src="https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists">
+  </a>
+  <!-- <a href="">
+    <img src="">
+  </a> -->
+</div>
+
 ---
 
 #### My Coding Project And Language
@@ -33,6 +68,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jianxuanbing&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jianxuanbing">
 
 #### views
-<!-- 统计访问者数量 -->
-<img src="https://komarev.com/ghpvc/?username=jianxuanbing" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jianxuanbing.jianxuanbing" />
