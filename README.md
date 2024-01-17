@@ -2,7 +2,7 @@
  * @Author: jian玄冰 jianxuanhuo1@126.com
  * @Date: 2024-01-17 10:12:36
  * @LastEditors: jian玄冰 jianxuanhuo1@126.com
- * @LastEditTime: 2024-01-17 18:01:56
+ * @LastEditTime: 2024-01-17 18:16:07
  * @FilePath: \jianxuanbing\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -126,17 +126,39 @@
   </a>
 </div>
 
+
+### 📑 Sites
+
+<div>
+  <a href="https://www.bilibili.com/">
+    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-gayhub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff">
+  </a>
+  <a href="https://www.zhihu.com/">
+    <img src="https://img.shields.io/badge/知乎-懂的都懂-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff">
+  </a>
+</div>
+
 ---
 
-#### My Coding Project And Language
+### My Coding Project And Language
 <div>
   <a href="https://github.com/jianxuanbing">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jianxuanbing&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jianxuanbing&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
   </a>
   <a href="https://github.com/jianxuanbing">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianxuanbing&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
   </a>
 </div>
+
+### Day
+
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
 
 ---
 <!-- GitHub 奖杯 -->
