@@ -5,7 +5,7 @@
 </div>
 
 <!-- 贪吃蛇 -->
-![](https://cdn.jsdelivr.net/gh/jianxuanbing/jianxuanbing@main/assets/github-contribution-grid-snake.svg)
+![](https://cdn.jsdelivr.net/gh/jianxuanbing/jianxuanbing@output/github-contribution-grid-snake.svg)
 
 <!-- 打字机 -->
 <div align="center">
