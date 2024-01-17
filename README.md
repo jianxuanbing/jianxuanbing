@@ -1,3 +1,11 @@
+<!--
+ * @Author: jian玄冰 jianxuanhuo1@126.com
+ * @Date: 2024-01-17 10:12:36
+ * @LastEditors: jian玄冰 jianxuanhuo1@126.com
+ * @LastEditTime: 2024-01-17 18:01:56
+ * @FilePath: \jianxuanbing\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <!-- 访客计数器 -->
 <div>
   <h4 align="center">访客数 :eyes:</h4>
@@ -49,6 +57,73 @@
   <!-- <a href="">
     <img src="">
   </a> -->
+</div>
+
+### 🔨Tools
+
+<div>
+  <a href="https://www.jetbrains.com/zh-cn/idea/">
+    <img src="https://img.shields.io/badge/IDEA-Java-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000">
+  </a>
+  <a href="https://www.jetbrains.com/zh-cn/webstorm/">
+    <img src="https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000">
+  </a>
+  <a href="https://www.jetbrains.com/zh-cn/pyCharm/">
+    <img src="https://img.shields.io/badge/PyCharm-Python-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC">
+  </a>
+  <a href="https://www.google.com/chrome/">
+    <img src="https://img.shields.io/badge/Chrome-谷歌-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4">
+  </a>
+  <a href="https://www.microsoft.com/zh-cn/edge?form=MA13FJ">
+    <img src="https://img.shields.io/badge/Edge-微软-0078D7?style=flat-square&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7">
+  </a>
+  <a href="https://www.adobe.com/cn/products/photoshop.html">
+    <img src="https://img.shields.io/badge/Photoshop-PS-31A8FF?style=flat-square&logo=Adobe%20Photoshop&labelColor=ffffff&logoColor=31A8FF">
+  </a>
+</div>
+
+### 🧰 Languages
+
+<div>
+  <a href="">
+    <img src="https://img.shields.io/badge/-CSharp-512bd4?style=flat-square&logo=csharp&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/NET-6-512BD4?logo=dotnet&logoColor=white">
+  </a>
+  <a href="https://html.spec.whatwg.org/">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  </a>
+  <a href="https://www.ecma-international.org/">
+    <img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white">
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.oracle.com/cn/">
+    <img src="https://img.shields.io/badge/Java-8-e0161a?logo=Java&logoColor=e0161a">
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/GO-1.14-00acd7?logo=Go&logoColor=00acd7">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff">
+  </a>
 </div>
 
 ---
