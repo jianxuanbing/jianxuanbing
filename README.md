@@ -4,6 +4,9 @@
   <p align="center"><img src="https://count.getloli.com/get/@:jianxuanbing?theme=rule34" style="display: block; margin-left: auto; margin-right: auto; height: 160px" /></p>
 </div>
 
+<!-- 贪吃蛇 -->
+![](https://cdn.jsdelivr.net/gh/jianxuanbing/jianxuanbing@main/assets/github-contribution-grid-snake.svg)
+
 <!-- 打字机 -->
 <div align="center">
   <a href="https://jcebing.com/">
