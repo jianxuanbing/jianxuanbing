@@ -29,5 +29,10 @@
 </div>
 
 ---
-
+<!-- GitHub 奖杯 -->
 <img src="https://github-profile-trophy.vercel.app/?username=jianxuanbing&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jianxuanbing">
+
+#### views
+<!-- 统计访问者数量 -->
+<img src="https://komarev.com/ghpvc/?username=jianxuanbing" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jianxuanbing.jianxuanbing" />
