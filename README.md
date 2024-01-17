@@ -2,7 +2,7 @@
  * @Author: jian玄冰 jianxuanhuo1@126.com
  * @Date: 2024-01-17 10:12:36
  * @LastEditors: jian玄冰 jianxuanhuo1@126.com
- * @LastEditTime: 2024-01-17 18:16:07
+ * @LastEditTime: 2024-01-17 18:20:11
  * @FilePath: \jianxuanbing\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -141,8 +141,6 @@
   </a>
 </div>
 
----
-
 ### My Coding Project And Language
 <div>
   <a href="https://github.com/jianxuanbing">
@@ -160,8 +158,7 @@
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
 
----
+### My Github Activity Graph
+
 <!-- GitHub 奖杯 -->
 <img src="https://github-profile-trophy.vercel.app/?username=jianxuanbing&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jianxuanbing">
-
-#### views
