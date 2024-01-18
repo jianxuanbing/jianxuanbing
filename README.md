@@ -168,10 +168,10 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jianxuanbing&theme=light" alt="Wakaime Stats">
 
 <!-- 最近30天每天写代码的时间分布 -->
-<img src="https://wakatime.com/share/@jianxuanbing/a376002d-8e0b-4291-afe0-df5a1e920f4d" alt="Wakaime Coding Activity">
+<img src="https://wakatime.com/share/@jianxuanbing/6af3abc5-627e-4bf9-b354-31cfa823de7c.svg" alt="Wakaime Coding Activity">
 
 <!-- 最近30天写代码的语言分布 -->
-<img src="https://wakatime.com/share/@jianxuanbing/3bf458c7-03e2-4151-86be-8cd7f8cf5bcd" alt="Wakaime Languages(Bar)">
+<img src="https://wakatime.com/share/@jianxuanbing/2e21e52e-2bda-427c-b1b1-23c90ac9d7c9.svg" alt="Wakaime Languages(Bar)">
 
 </details>
 
