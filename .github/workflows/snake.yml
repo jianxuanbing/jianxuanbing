@@ -3,15 +3,15 @@ name: 生成贪吃蛇
 on:
   schedule:
     # 每天自定运行一次
-    - cron: "0 0 * * *"
+    - cron: "45 0 * * *"
   
   # 允许手动触发执行
   workflow_dispatch:
   
   # 每次push到main分支时自动执行
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
