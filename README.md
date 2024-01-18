@@ -1,19 +1,8 @@
-<!--
- * @Author: jian玄冰 jianxuanhuo1@126.com
- * @Date: 2024-01-17 10:12:36
- * @LastEditors: jian玄冰 jianxuanhuo1@126.com
- * @LastEditTime: 2024-01-18 10:26:25
- * @FilePath: \jianxuanbing\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 <!-- 访客计数器 -->
 <div>
   <h4 align="center">访客数 :eyes:</h4>
   <p align="center"><img src="https://count.getloli.com/get/@:jianxuanbing?theme=rule34" style="display: block; margin-left: auto; margin-right: auto; height: 160px" /></p>
 </div>
-
-### 😤Hard things must be rewarded
-
 
 ### 🤗 欢迎来访
 
