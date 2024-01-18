@@ -1,4 +1,4 @@
-name: Generate Snake
+name: 生成贪吃蛇
 
 on:
   schedule:
