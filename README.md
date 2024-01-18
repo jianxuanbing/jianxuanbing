@@ -106,23 +106,17 @@
   </a>
 </div>
 
-
-### 📑 Sites
+### 💻 Tech Stack
+<details>
+<summary>点击展开 ...</summary>
 
 <div>
-  <a href="https://www.bilibili.com/">
-    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-gayhub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff">
-  </a>
-  <a href="https://www.zhihu.com/">
-    <img src="https://img.shields.io/badge/知乎-懂的都懂-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff">
-  </a>
 </div>
 
-### 💻 Stats
-<details open>
+</details>
+
+### 📊 Github Stats
+<details>
 <summary>点击展开 ...</summary>
 
 <div align="center">
@@ -132,9 +126,6 @@
   <a href="https://github.com/jianxuanbing">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianxuanbing&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
   </a>
-  <a href="https://github.com/jianxuanbing">
-    <img src="https://github-profile-trophy.vercel.app/?username=jianxuanbing&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  </a>
 
   <!-- <a href="https://github.com/jianxuanbing">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=jianxuanbing&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
@@ -143,9 +134,21 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianxuanbing&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
   </a> -->
 
+  
+</div>
+
+<div align="center">
+  <a href="https://github.com/jianxuanbing">
+    <img src="https://github-profile-trophy.vercel.app/?username=jianxuanbing&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  </a>
+</div>
+
+<div align="center">
+
   <!-- 贪吃蛇 -->
   ![snake](https://raw.githubusercontent.com/jianxuanbing/jianxuanbing/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   <!-- ![TOG](https://cdn.jsdelivr.net/gh/jianxuanbing/jianxuanbing@output/github-contribution-grid-snake.svg) -->
+
   <!-- 打字机 -->
   <a href="https://jcebing.com/">
 	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
@@ -153,6 +156,22 @@
 
   [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/jianxuanbing/jianxuanbing/main/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
+
+
+</details>
+
+### 📈 WakaTime Stats
+
+<details>
+<summary>点击展开 ...</summary>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jianxuanbing&theme=light" alt="Wakaime Stats">
+
+<!-- 最近30天每天写代码的时间分布 -->
+<img src="https://wakatime.com/share/@jianxuanbing/a376002d-8e0b-4291-afe0-df5a1e920f4d" alt="Wakaime Coding Activity">
+
+<!-- 最近30天写代码的语言分布 -->
+<img src="https://wakatime.com/share/@jianxuanbing/3bf458c7-03e2-4151-86be-8cd7f8cf5bcd" alt="Wakaime Languages(Bar)">
 
 </details>
 
@@ -162,6 +181,9 @@
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### :basecampy: GitHub最近动态
 
@@ -180,3 +202,18 @@
 </tr>
 </table>
 </details>
+
+### 📑 Sites
+
+<div>
+  <a href="https://www.bilibili.com/">
+    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-gayhub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff">
+  </a>
+  <a href="https://www.zhihu.com/">
+    <img src="https://img.shields.io/badge/知乎-懂的都懂-0084FF?style=for-the-badge&logo=ZhiHu&logoColor=0084FF&labelColor=ffffff">
+  </a>
+</div>
+
