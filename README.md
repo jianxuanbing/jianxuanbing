@@ -237,7 +237,7 @@ VS Code                  4 hrs 29 mins       ██████░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/bing-framework/Bing.NetCore/issues/41#issuecomment-1897722936) in [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)
+1. 🔒 Closed issue [#2](https://github.com/bing-framework/Bing.Elasticsearch/issues/2) in [bing-framework/Bing.Elasticsearch](https://github.com/bing-framework/Bing.Elasticsearch)
 <!--END_SECTION:activity-->
 
 </td>
