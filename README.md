@@ -237,7 +237,7 @@ VS Code                  4 hrs 3 mins        █████████░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/bing-framework/Bing.Elasticsearch/issues/2) in [bing-framework/Bing.Elasticsearch](https://github.com/bing-framework/Bing.Elasticsearch)
+1. 🚀 Published release [v1.0.0](https://github.com/jianxuanbing/Hangfire.Redis.CSRedisCore/releases/tag/v1.0.0) in [jianxuanbing/Hangfire.Redis.CSRedisCore](https://github.com/jianxuanbing/Hangfire.Redis.CSRedisCore)
 <!--END_SECTION:activity-->
 
 </td>
