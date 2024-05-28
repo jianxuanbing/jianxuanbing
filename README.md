@@ -237,7 +237,7 @@ VS Code                  1 hr 38 mins        ██████░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/jianxuanbing/Hangfire.Redis.CSRedisCore/releases/tag/v1.0.0) in [jianxuanbing/Hangfire.Redis.CSRedisCore](https://github.com/jianxuanbing/Hangfire.Redis.CSRedisCore)
+1. 🚀 Published release [v1.5.4](https://github.com/bing-framework/Bing.Extensions.Swashbuckle/releases/tag/v1.5.4) in [bing-framework/Bing.Extensions.Swashbuckle](https://github.com/bing-framework/Bing.Extensions.Swashbuckle)
 <!--END_SECTION:activity-->
 
 </td>
