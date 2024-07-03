@@ -237,7 +237,7 @@ Visual Studio            3 hrs 13 mins       ██████████░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.4](https://github.com/bing-framework/Bing.Extensions.Swashbuckle/releases/tag/v1.5.4) in [bing-framework/Bing.Extensions.Swashbuckle](https://github.com/bing-framework/Bing.Extensions.Swashbuckle)
+1. ❗ Opened issue [#771](https://github.com/chengzhongxue/halo-theme-hao/issues/771) in [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)
 <!--END_SECTION:activity-->
 
 </td>
