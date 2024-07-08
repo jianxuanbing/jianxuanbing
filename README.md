@@ -237,7 +237,7 @@ Visual Studio            1 hr 40 mins        ██████░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#771](https://github.com/chengzhongxue/halo-theme-hao/issues/771) in [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)
+1. 🗣 Commented on [#774](https://github.com/chengzhongxue/halo-theme-hao/issues/774#issuecomment-2212775237) in [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)
 <!--END_SECTION:activity-->
 
 </td>
