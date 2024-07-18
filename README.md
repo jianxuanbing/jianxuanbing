@@ -237,7 +237,7 @@ Visual Studio            1 hr 58 mins        ████████░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#774](https://github.com/chengzhongxue/halo-theme-hao/issues/774#issuecomment-2212775237) in [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)
+1. ❗ Opened issue [#1425](https://github.com/clash-verge-rev/clash-verge-rev/issues/1425) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 </td>
