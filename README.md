@@ -236,7 +236,7 @@ Visual Studio            20 mins             █░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1425](https://github.com/clash-verge-rev/clash-verge-rev/issues/1425) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. ❗ Opened issue [#427](https://github.com/gitbobobo/StreamMusic/issues/427) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
 <!--END_SECTION:activity-->
 
 </td>
