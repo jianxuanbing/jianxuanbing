@@ -237,7 +237,7 @@ Visual Studio            19 mins             ██████░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#427](https://github.com/gitbobobo/StreamMusic/issues/427) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
+1. 🗣 Commented on [#427](https://github.com/gitbobobo/StreamMusic/issues/427#issuecomment-2251958295) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
 <!--END_SECTION:activity-->
 
 </td>
