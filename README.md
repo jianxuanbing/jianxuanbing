@@ -235,7 +235,7 @@ VS Code                  3 mins              █░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/gitbobobo/StreamMusic/issues/427#issuecomment-2251958295) in [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
+1. 🗣 Commented on [#1425](https://github.com/clash-verge-rev/clash-verge-rev/issues/1425#issuecomment-2282327520) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 </td>
