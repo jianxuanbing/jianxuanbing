@@ -237,7 +237,7 @@ VS Code                  2 hrs 54 mins       ████░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/stratosblue/IntelliSenseLocalizer/issues/12) in [stratosblue/IntelliSenseLocalizer](https://github.com/stratosblue/IntelliSenseLocalizer)
+1. 🗣 Commented on [#12](https://github.com/stratosblue/IntelliSenseLocalizer/issues/12#issuecomment-2379272443) in [stratosblue/IntelliSenseLocalizer](https://github.com/stratosblue/IntelliSenseLocalizer)
 <!--END_SECTION:activity-->
 
 </td>
