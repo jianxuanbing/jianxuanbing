@@ -237,7 +237,7 @@ VS Code                  2 hrs 47 mins       ███████░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/stratosblue/IntelliSenseLocalizer/issues/12#issuecomment-2379272443) in [stratosblue/IntelliSenseLocalizer](https://github.com/stratosblue/IntelliSenseLocalizer)
+1. ❗ Opened issue [#1909](https://github.com/clash-verge-rev/clash-verge-rev/issues/1909) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 </td>
