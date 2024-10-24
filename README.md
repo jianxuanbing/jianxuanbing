@@ -237,7 +237,7 @@ Visual Studio            3 hrs 36 mins       ██████████░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1917](https://github.com/clash-verge-rev/clash-verge-rev/issues/1917#issuecomment-2434118600) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🗣 Commented on [#1917](https://github.com/clash-verge-rev/clash-verge-rev/issues/1917#issuecomment-2434164195) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 <!--END_SECTION:activity-->
 
 </td>
