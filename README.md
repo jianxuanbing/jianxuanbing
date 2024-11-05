@@ -237,7 +237,7 @@ VS Code                  24 mins             ██░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1917](https://github.com/clash-verge-rev/clash-verge-rev/issues/1917#issuecomment-2434164195) in [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+1. 🗣 Commented on [#5](https://github.com/bing-framework/Bing.EasyPrint/issues/5#issuecomment-2456642161) in [bing-framework/Bing.EasyPrint](https://github.com/bing-framework/Bing.EasyPrint)
 <!--END_SECTION:activity-->
 
 </td>
