@@ -236,7 +236,7 @@ VS Code                  35 mins             ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/bing-framework/Bing.EasyPrint/issues/5#issuecomment-2456642161) in [bing-framework/Bing.EasyPrint](https://github.com/bing-framework/Bing.EasyPrint)
+1. ❗ Opened issue [#323](https://github.com/xhongc/music-tag-web/issues/323) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 <!--END_SECTION:activity-->
 
 </td>
