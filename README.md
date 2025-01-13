@@ -236,7 +236,7 @@ Visual Studio            36 mins             ███████████�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#323](https://github.com/xhongc/music-tag-web/issues/323) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+1. 🗣 Commented on [#323](https://github.com/xhongc/music-tag-web/issues/323#issuecomment-2586100729) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 <!--END_SECTION:activity-->
 
 </td>
