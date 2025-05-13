@@ -18,8 +18,9 @@ jobs:
           MAX_REPOS: 1000
       - name: Commit & Push
         run: |
-          git config user.name jianxuanbing
-          git config user.email jianxuanhuo1@126.com
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git pull origin main --rebase || echo "Pull failed, but continue"
           git add -A .
           git commit -m "generated"
           git push
