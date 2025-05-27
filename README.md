@@ -262,3 +262,93 @@ Unknown Editor           18 mins             ░░░░░░░░░░░�
   </a>
 </div>
 
+### 📁 Projects
+
+<div>
+  <table frame="void" style="display:flex;justify-content:center;" border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Utils">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Utils" alt="Bing.Utils">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.NetCore">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.NetCore" alt="Bing.NetCore">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Elasticsearch">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Elasticsearch" alt="Bing.Elasticsearch">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Offices">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Offices" alt="Bing.Offices">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.QRCode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.QRCode" alt="Bing.QRCode">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Barcode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Barcode" alt="Bing.Barcode">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Extensions.Swashbuckle">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Extensions.Swashbuckle" alt="Bing.Extensions.Swashbuckle">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jianxuanbing/Hangfire.Redis.CSRedisCore">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jianxuanbing&repo=Hangfire.Redis.CSRedisCore" alt="Hangfire.Redis.CSRedisCore">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.EasyPrint">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.EasyPrint" alt="Bing.EasyPrint">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Canal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Canal" alt="Bing.Canal">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Serialization">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Serialization" alt="Bing.Serialization">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.WeChatWork">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.WeChatWork" alt="Bing.WeChatWork">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Abstractions">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Abstractions" alt="Bing.Abstractions">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bing-framework/Bing.Printer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bing-framework&repo=Bing.Printer" alt="Bing.Printer">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
