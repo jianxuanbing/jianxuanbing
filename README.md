@@ -240,7 +240,7 @@ Unknown Editor           28 mins             ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/xhongc/music-tag-web/issues/326#issuecomment-2589141561) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+1. 🎉 Merged PR [#71](https://github.com/bing-framework/Bing.NetCore/pull/71) in [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)
 <!--END_SECTION:activity-->
 
 </td>
