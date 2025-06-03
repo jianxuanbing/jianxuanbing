@@ -239,7 +239,7 @@ Unknown Editor           35 mins             █░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/bing-framework/Bing.NetCore/pull/71) in [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)
+1. 🚀 Published release [v6.0.0](https://github.com/bing-framework/Bing.NetCore/releases/tag/v6.0.0) in [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)
 <!--END_SECTION:activity-->
 
 </td>
