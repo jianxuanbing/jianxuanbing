@@ -240,7 +240,7 @@ DataGrip                 1 min               ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/bing-framework/Bing.Elasticsearch/releases/tag/v1.0.0) in [bing-framework/Bing.Elasticsearch](https://github.com/bing-framework/Bing.Elasticsearch)
+1. 🎉 Merged PR [#3](https://github.com/bing-framework/Bing.Utils/pull/3) in [bing-framework/Bing.Utils](https://github.com/bing-framework/Bing.Utils)
 <!--END_SECTION:activity-->
 
 </td>
