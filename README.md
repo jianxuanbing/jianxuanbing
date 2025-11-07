@@ -239,7 +239,7 @@ DataGrip                 3 mins              ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bing-framework/Bing.Utils/pull/3) in [bing-framework/Bing.Utils](https://github.com/bing-framework/Bing.Utils)
+1.  Labeled issue [#521](https://github.com/xhongc/music-tag-web/issues/521) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 <!--END_SECTION:activity-->
 
 </td>
