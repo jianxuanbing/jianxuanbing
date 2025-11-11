@@ -239,7 +239,7 @@ DataGrip                 3 mins              ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#521](https://github.com/xhongc/music-tag-web/issues/521) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+1. 🗣 Commented on [#521](https://github.com/xhongc/music-tag-web/issues/521#issuecomment-3515348901) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 <!--END_SECTION:activity-->
 
 </td>
