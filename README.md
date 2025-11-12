@@ -240,7 +240,7 @@ Obsidian                 1 min               ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/xhongc/music-tag-web/issues/521#issuecomment-3515348901) in [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+1. ❗ Opened issue [#190](https://github.com/Huibq/keep-alive/issues/190) in [Huibq/keep-alive](https://github.com/Huibq/keep-alive)
 <!--END_SECTION:activity-->
 
 </td>
