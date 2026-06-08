@@ -240,7 +240,7 @@ Obsidian                 47 mins             ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#344](https://github.com/dotnetcore/AspectCore-Framework/issues/344#issuecomment-4644962334) in [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)
+1. 🔒 Closed issue [#214](https://github.com/VicBilibily/GCMP/issues/214) in [VicBilibily/GCMP](https://github.com/VicBilibily/GCMP)
 <!--END_SECTION:activity-->
 
 </td>
