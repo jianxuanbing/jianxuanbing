@@ -213,41 +213,41 @@
 
 ```text
 💬 编程语言: 
-Other                    19 hrs 59 mins      ██████████████░░░░░░░░░░░   55.73 % 
-C#                       6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-SQL                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Text                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    18 hrs 22 mins      ██████████████░░░░░░░░░░░   55.35 % 
+C#                       6 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+SQL                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Text                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 编辑器: 
-Chrome                   20 hrs 20 mins      ██████████████░░░░░░░░░░░   56.69 % 
-VS Code                  8 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-DataGrip                 3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Visual Studio            1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Unknown Editor           1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Chrome                   18 hrs 43 mins      ██████████████░░░░░░░░░░░   56.42 % 
+VS Code                  7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+DataGrip                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Visual Studio            1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Unknown Editor           1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 44 mins (18.79%)
+⏱ AI Coding Time: 5 hrs 44 mins (17.31%)
 
-✍️ 162,225 lines written by AI, 809 lines written by hand (99.5% AI-written)
+✍️ 123,412 lines written by AI, 540 lines written by hand (99.56% AI-written)
 
 🔤 295,237 Input Tokens, 677 Output Tokens
 
 💵 $1.23 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 140 AI Prompts
+🧠 15 AI Sessions, 121 AI Prompts
 
-Github-Copilot           162,489 lines       █████████████████████████   100.00 % 
+Github-Copilot           123,676 lines       █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📚 Verbose Prompter — average 2,372 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.99% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📚 Verbose Prompter — average 2,743 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 1.08% of changed lines were hand-edited
 ```
 
 
