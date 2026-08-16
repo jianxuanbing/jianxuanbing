@@ -213,24 +213,24 @@
 
 ```text
 💬 编程语言: 
-Other                    29 hrs 33 mins      ████████████████░░░░░░░░░   64.75 % 
-C#                       7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Text                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-TypeScript               2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Other                    53 hrs 19 mins      ███████████████████░░░░░░   76.82 % 
+C#                       7 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Text                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 编辑器: 
-Chrome                   30 hrs 21 mins      █████████████████░░░░░░░░   66.51 % 
-VS Code                  12 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Unknown Editor           2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Visual Studio            41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Chrome                   54 hrs 7 mins       ███████████████████░░░░░░   77.98 % 
+VS Code                  12 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Unknown Editor           2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Visual Studio            41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 43 mins (16.91%)
+⏱ AI Coding Time: 7 hrs 43 mins (11.12%)
 
 ✍️ 377,206 lines written by AI, 1,800 lines written by hand (99.53% AI-written)
 
