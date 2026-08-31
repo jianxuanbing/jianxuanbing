@@ -213,26 +213,26 @@
 
 ```text
 💬 编程语言: 
-Other                    19 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.92 % 
-Markdown                 10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-TypeScript               2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-C#                       2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Text                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Other                    19 hrs 25 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
+Markdown                 10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+TypeScript               2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Text                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+C#                       2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 编辑器: 
-Chrome                   18 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.37 % 
-VS Code                  16 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   38.93 % 
-Antigravity IDE          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Unknown Editor           1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Visual Studio            1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Chrome                   18 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.57 % 
+VS Code                  16 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.64 % 
+Antigravity IDE          3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Unknown Editor           1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Visual Studio            1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 47 mins (31.9%)
+⏱ AI Coding Time: 13 hrs 47 mins (32.05%)
 
-✍️ 159,669 lines written by AI, 2,212 lines written by hand (98.63% AI-written)
+✍️ 159,669 lines written by AI, 2,164 lines written by hand (98.66% AI-written)
 
 🔤 182,156 Input Tokens, 4,771 Output Tokens
 
@@ -245,10 +245,10 @@ Gemini                   3,524 lines         █░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.63% of written lines came from AI
+🤖 AI-Driven — 98.66% of written lines came from AI
 📚 Verbose Prompter — average 3,082 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.59% of changed lines were hand-edited
+🚀 High AI Trust — 1.56% of changed lines were hand-edited
 ```
 
 
