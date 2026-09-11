@@ -268,7 +268,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6967](https://github.com/Wei-Shaw/sub2api/issues/6967#issuecomment-5619940974) in [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+1. 🗣 Commented on [#6967](https://github.com/Wei-Shaw/sub2api/issues/6967#issuecomment-5630916837) in [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
 <!--END_SECTION:activity-->
 
 </td>
