@@ -213,44 +213,43 @@
 
 ```text
 💬 编程语言: 
-Other                    21 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.56 % 
-Markdown                 11 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-TypeScript               5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-C#                       4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Python                   3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    18 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   30.90 % 
+Markdown                 15 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+TypeScript               8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+C#                       4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Python                   4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🔥 编辑器: 
-Chrome                   22 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.99 % 
-VS Code                  16 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Codex Vscode             12 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Visual Studio            48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Unknown Editor           36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VS Code                  20 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.29 % 
+Chrome                   19 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Codex Vscode             17 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Visual Studio            37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Unknown Editor           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 17 mins (51.77%)
+⏱ AI Coding Time: 37 hrs 15 mins (63.2%)
 
-✍️ 57,118 lines written by AI, 38 lines written by hand (99.93% AI-written)
+✍️ 71,362 lines written by AI, 37 lines written by hand (99.95% AI-written)
 
-🔤 55,177,429 Input Tokens, 6,026,688 Output Tokens
+🔤 68,696,013 Input Tokens, 7,682,812 Output Tokens
 
-💵 $2275.48 Estimated AI Cost This Week
+💵 $2380.23 Estimated AI Cost This Week
 
-🧠 251 AI Sessions, 422 AI Prompts
+🧠 317 AI Sessions, 513 AI Prompts
 
-GPT                      42,900 lines        ██████████████████░░░░░░░   71.02 % 
-Github-Copilot           15,584 lines        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Codex-Vscode             1,880 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Gemini                   44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GPT                      61,926 lines        ████████████████████░░░░░   78.25 % 
+Github-Copilot           14,549 lines        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Codex-Vscode             2,664 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 26,430 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 28,645 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 
