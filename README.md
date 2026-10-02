@@ -186,26 +186,26 @@
 ```
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2050%20mins-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌆 白天                     1337 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
-🌃 傍晚                     970 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌙 晚上                     929 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌞 早晨                     549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 白天                     1337 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
+🌃 傍晚                     967 commits         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌙 晚上                     927 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      580 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-星期二                      731 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-星期三                      696 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-星期四                      575 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-星期五                      647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-星期六                      266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-星期日                      290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+星期一                      577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+星期二                      731 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+星期三                      696 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+星期四                      575 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+星期五                      647 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+星期六                      266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+星期日                      288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 
@@ -213,42 +213,42 @@
 
 ```text
 💬 编程语言: 
-Other                    29 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.52 % 
-C#                       23 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Markdown                 14 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Python                   6 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Vue                      5 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+C#                       26 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Other                    23 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Markdown                 14 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Vue                      5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🔥 编辑器: 
-Codex Vscode             40 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.45 % 
-VS Code                  30 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.50 % 
-Chrome                   18 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Visual Studio            1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Unknown Editor           26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Codex Vscode             37 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.71 % 
+VS Code                  37 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.23 % 
+Chrome                   11 hrs 56 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Visual Studio            1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 71 hrs 6 mins (78.22%)
+⏱ AI Coding Time: 75 hrs 32 mins (85.25%)
 
-✍️ 155,354 lines written by AI, 1,749 lines written by hand (98.89% AI-written)
+✍️ 171,327 lines written by AI, 1,594 lines written by hand (99.08% AI-written)
 
-🔤 306,224,541 Input Tokens, 32,955,684 Output Tokens
+🔤 360,694,529 Input Tokens, 39,080,410 Output Tokens
 
-💵 $20367.15 Estimated AI Cost This Week
+💵 $25631.08 Estimated AI Cost This Week
 
-🧠 693 AI Sessions, 3132 AI Prompts
+🧠 768 AI Sessions, 3225 AI Prompts
 
-GPT                      144,141 lines       ███████████████████████░░   91.41 % 
-Github-Copilot           11,218 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Codex-Vscode             2,330 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GPT                      156,964 lines       ███████████████████████░░   90.62 % 
+Github-Copilot           11,218 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Codex-Vscode             5,024 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.89% of written lines came from AI
-📚 Verbose Prompter — average 9,973 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.08% of written lines came from AI
+📚 Verbose Prompter — average 10,661 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
 ```
 
 
